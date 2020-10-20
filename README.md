@@ -1,2 +1,6 @@
 # hello-world
-Just another repository to learn git/github
+
+Hi Humans!
+
+Hubot here, I like Python and Geospatial analysis.
+I've had great ideas.
